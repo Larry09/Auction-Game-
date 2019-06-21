@@ -10,3 +10,4 @@ The winning condition for some games is to gather a target number of paintings f
 FULL REPORT CAN BE FOUND IN THIS REPOSITORY *
 ============
 
+Copyright (c) 2019, Lahiru Fernando
